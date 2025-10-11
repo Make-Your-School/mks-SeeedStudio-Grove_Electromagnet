@@ -24,7 +24,7 @@ embedded_example_file: "examples/Grove_Electromagnet_minimal/Grove_Electromagnet
 ![Elektromagnet](49_elektromagnet.jpg)
 
 ## Beschreibung
-Beim Elektromagneten handelt es sich um einen Magneten, der über eine angelegte Spannung aktiviert oder deaktiviert werden kann. Das Funktionsprinzip beruht auf der physikalischen Eigenschaft einer stromdurchflossenen Spule, die ein Magnetfeld um sich herum aufbaut. Da Spulen und Elektromagnete Ströme induzieren, die der angelegten Spannung entgegen gerichtet sind, dürfen Mikrocontroller nicht direkt an den Elektromagneten angeschlossen werden. Dieser könnte sonst beschädigt werden. Das hier vorliegende Board beinhaltet alle wichtigen Schutzschaltungen, sodass  ein Arduino oder Raspberry Pi direkt oder mithilfe des Grove Shields angeschlossen werden können. Mit einem einfachen \[simple\_tooltip content='
+Beim Elektromagneten handelt es sich um einen Magneten, der über eine angelegte Spannung aktiviert oder deaktiviert werden kann. Das Funktionsprinzip beruht auf der physikalischen Eigenschaft einer stromdurchflossenen Spule, die ein Magnetfeld um sich herum aufbaut. Da Spulen und Elektromagnete Ströme induzieren, die der angelegten Spannung entgegen gerichtet sind, dürfen Mikrocontroller nicht direkt an den Elektromagneten angeschlossen werden. Dieser könnte sonst beschädigt werden. Das hier vorliegende Board beinhaltet alle wichtigen Schutzschaltungen, sodass  ein Arduino oder Raspberry Pi direkt oder mithilfe des Grove Shields angeschlossen werden können. Mit einem einfachen \[simple\_tooltip content='
 
 Digital vs. Analog:
 
