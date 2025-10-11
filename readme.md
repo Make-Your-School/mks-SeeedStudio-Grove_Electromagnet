@@ -1,4 +1,3 @@
-
 ---
 title: "Elektromagnet"
 date: "2018-10-01T14:29:58.000Z"
