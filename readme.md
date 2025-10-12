@@ -3,7 +3,7 @@ title: "Elektromagnet"
 date: "2018-10-01T14:29:58.000Z"
 tags: 
   - "output"
-coverImage: "49_elektromagnet.jpg"
+coverImage: "49_elektromagnet.png"
 material_number: "49"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Electromagnet"
