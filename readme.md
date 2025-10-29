@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Electromag
 repo_prefix: "mks"
 repo_part: "Grove_Electromagnet"
 embedded_example_file: "examples/Grove_Electromagnet_minimal/Grove_Electromagnet_minimal.ino"
+title: 'Elektromagnet'
+status: 'active'
+difficulty: 'recommend'
 ---
 
 
